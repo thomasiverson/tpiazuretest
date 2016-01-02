@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "WebApplication27259"
+  },
+  "hostingPlanName": {
+    "value": "rbatestappplan"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "199b7c06-b0bd-4f5f-b34e-0e6fcbf8461b"
+  },
+  "resourceGroup": {
+    "value": "rbatestrg"
+  }
+}
